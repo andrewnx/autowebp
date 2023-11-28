@@ -27,7 +27,11 @@ To set up this project, follow these steps:
 
 `pip install -r requirements.txt`
 
-4. To run the script, use the following command:
+4. Change line 66 in the code to the folder you want to watch:
+
+`DIRECTORY_TO_WATCH = "[Directory]"`
+
+5. Save the script and run it:
 
 `python autowebp.py`
 
