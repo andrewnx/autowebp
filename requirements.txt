@@ -1,0 +1,5 @@
+watchdog
+Pillow
+psutil
+pystray
+plyer

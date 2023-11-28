@@ -1,0 +1,5 @@
+{
+  "editor.fontFamily": "Roboto Mono, Consolas, 'Courier New', monospace",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true
+}

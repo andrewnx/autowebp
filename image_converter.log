@@ -1,0 +1,20 @@
+2023-11-27 22:58:27,544: INFO: Memory usage: 23.49 MB
+2023-11-27 22:58:32,545: INFO: Memory usage: 31.95 MB
+2023-11-27 22:58:32,709: INFO: Delete Originals: True
+2023-11-27 22:58:37,545: INFO: Memory usage: 31.97 MB
+2023-11-27 22:58:42,546: INFO: Memory usage: 31.97 MB
+2023-11-27 22:58:47,547: INFO: Memory usage: 31.98 MB
+2023-11-27 22:58:52,547: INFO: Memory usage: 31.98 MB
+2023-11-27 22:58:57,547: INFO: Memory usage: 32.02 MB
+2023-11-27 22:58:59,729: INFO: Received file event - C:/Users/Andrew/Downloads\Web capture_27-11-2023_225839_vercel.com.jpeg.
+2023-11-27 22:58:59,828: INFO: Converted C:/Users/Andrew/Downloads\Web capture_27-11-2023_225839_vercel.com.jpeg to C:/Users/Andrew/Downloads\Web capture_27-11-2023_225839_vercel.com.webp
+2023-11-27 22:58:59,828: INFO: Original file size: 169507 bytes, New file size: 64632 bytes
+2023-11-27 22:58:59,829: INFO: Deleted C:/Users/Andrew/Downloads\Web capture_27-11-2023_225839_vercel.com.jpeg
+2023-11-27 22:59:02,548: INFO: Memory usage: 32.87 MB
+2023-11-27 22:59:07,549: INFO: Memory usage: 32.87 MB
+2023-11-27 22:59:12,549: INFO: Memory usage: 32.81 MB
+2023-11-27 22:59:17,550: INFO: Memory usage: 32.81 MB
+2023-11-27 22:59:22,550: INFO: Memory usage: 32.81 MB
+2023-11-27 22:59:27,551: INFO: Memory usage: 32.76 MB
+2023-11-27 22:59:32,551: INFO: Memory usage: 32.76 MB
+2023-11-27 22:59:37,552: INFO: Memory usage: 32.79 MB
