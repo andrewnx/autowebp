@@ -38,3 +38,5 @@ To set up this project, follow these steps:
 ## How It Works
 
 The script uses the Watchdog library to monitor a specified directory for new image files. When a new image is detected, it's automatically converted to the WebP format. The Pystray library is used for system tray integration, allowing the user to pause/resume the conversion process and toggle the deletion of original files.
+
+[![Buy me a coffee](https://i.ibb.co/SdfqCPW/buymeacoffee2.webp)](https://www.buymeacoffee.com/andrewnx)
