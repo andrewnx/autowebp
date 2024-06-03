@@ -63,7 +63,7 @@ def show_notification(title, message):
 
 
 class Watcher:
-    DIRECTORY_TO_WATCH = "C:/Users/Andrew/Downloads"
+    DIRECTORY_TO_WATCH = "C:/Users/anx/Downloads"
 
     def __init__(self):
         self.observer = Observer()
